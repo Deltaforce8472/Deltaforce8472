@@ -28,9 +28,6 @@
   <a href="https://www.w3.org/Style/CSS/" rel="noreferrer" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer" target="_blank">
-    <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20251008163421507.svg" alt="MATLAB" width="120" height="40"/>
-  </a>
 </p>
 
 ## Databases
