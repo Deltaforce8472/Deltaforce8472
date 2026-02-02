@@ -55,9 +55,6 @@
   <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40"/>
   </a>
-  <a href="https://www.nginx.com" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" rel="noreferrer" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -91,9 +88,6 @@
 
 ## Data visualization
 <p>
-  <a href="https://www.chartjs.org" rel="noreferrer" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
   <a href="https://grafana.com" rel="noreferrer" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   </a>
@@ -119,11 +113,4 @@
 ## Most used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltaforce8472&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-## Connect with me
-<p>
-  <a href="https://instagram.com/deltaforce8472_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
 </p>
