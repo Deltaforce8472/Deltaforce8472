@@ -1,116 +1,114 @@
-# Hi 👋🙂, I'm Deltaforce8472
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Deltaforce8472+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=deltaforce8472&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CS_Student-4th_Semester-orange?style=for-the-badge&logo=mortarboard&logoColor=white" alt="CS Student"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Blender-4+_Years-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+
+</div>
+
+## 🧠 About Me
+
+**3D Art**: 4 years with Blender, mostly working with Geometry Nodes and creating/composing scenes \
+**CS Student**: currently in my 4th semester, dual study at THWS & ZF
+
+## 💻 Tech Stack
+
+### Languages
 
 <p align="center">
-  I'm a hobbyist 3D artist with four years of experience in Blender (mostly Geometry Nodes).  
-  Currently studying Computer Science (3rd semester).
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
+ 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deltaforce8472&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### Frontend
 
----
+<div align="center">
 
-## Languages
-<p>
-  <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Databases
-<p>
-  <a href="https://www.postgresql.org" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-## Frontend Development
-<p>
-  <a href="https://angular.io" rel="noreferrer" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" rel="noreferrer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
+### Backend
 
-## Backend Development
-<p>
-  <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://typeorm.io/" rel="noreferrer" target="_blank">
-    <img src="https://typeorm.io/img/typeorm-icon-colored.png" alt="TypeORM" width="55" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-## Testing Frameworks
-<p>
-  <a href="https://jestjs.io" rel="noreferrer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://testcontainers.org/" rel="noreferrer" target="_blank">
-    <img src="https://testcontainers.com/images/testcontainers-logo.svg" alt="Testcontainers" width="120" height="40"/>
-  </a>
-</p>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+&nbsp;
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
-## DevOps
-<p>
-  <a href="https://azure.microsoft.com/" rel="noreferrer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.openshift.com/" rel="noreferrer" target="_blank">
-    <img src="https://docs.redhat.com/_nuxt/RH-OpenShift.3f0NCRWM.webp" alt="Red Hat OpenShift" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-## Data visualization
-<p>
-  <a href="https://grafana.com" rel="noreferrer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-  </a>
-</p>
+### Databases
 
-## Software
-<p>
-  <a href="https://www.blender.org/" rel="noreferrer" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-## Other
-<p>
-  <a href="https://www.linux.org/" rel="noreferrer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" rel="noreferrer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Most used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltaforce8472&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+</div>
+
+### Testing
+
+<div align="center">
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+&nbsp;
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3B?style=for-the-badge&logo=docker&logoColor=white)
+&nbsp;
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+</div>
+
+### DevOps & Infrastructure
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+&nbsp;
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+
+</div>
+
+### Monitoring & Tooling
+
+<div align="center">
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+&nbsp;
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deltaforce8472&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
